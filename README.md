@@ -4,6 +4,7 @@
 ## Numpy Implemenations
 
 - [Basic Building Blocks](https://github.com/seungjun-green/ML-Implementations/blob/main/Numpy/Basic_Building_Blocks.ipynb)
+
 Implemented Linear, Convolution, TransposeConvolution, MaxPool, RNN, LSTM, Embedding and MultiHeadAttention using Numpy.
 - [TransFormer](https://github.com/seungjun-green/ML-Implementations/blob/main/Numpy/TransFormer_in_Numpy.ipynb)
 
