@@ -8,6 +8,7 @@
 Implemented Linear, Convolution, TransposeConvolution, MaxPool, RNN, LSTM, Embedding and MultiHeadAttention using Numpy.
 - [TransFormer](https://github.com/seungjun-green/ML-Implementations/blob/main/Numpy/TransFormer_in_Numpy.ipynb)
 
+- [K-means clusteting](https://github.com/seungjun-green/ML-Implementations/blob/main/Numpy/K_means_clustering_in_Numpy.ipynb)
 ## PyTorch Implementations
 
 - [DenseNet-BC](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/DenseNet_BC_Implementation.ipynb)
