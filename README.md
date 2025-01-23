@@ -16,4 +16,4 @@ Implemented Linear, Convolution, TransposeConvolution, MaxPool, RNN, LSTM, Embed
 - [DDColor](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/DDColor.ipynb)
 - [ResNet](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/ResNet.ipynb)
 - [FlashAttention](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/FlashAttention.ipynb)
-- [ModernBERT] (https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/ModernBERT.ipynb)
+- [ModernBERT](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/ModernBERT.ipynb)
