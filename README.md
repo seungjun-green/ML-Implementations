@@ -23,3 +23,4 @@ Implemented Linear, Convolution, TransposeConvolution, MaxPool, RNN, LSTM, Embed
 ### NLP
 
 - [ModernBERT](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/ModernBERT.ipynb)
+- [Conformer](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/Conformer_Block.ipynb)
