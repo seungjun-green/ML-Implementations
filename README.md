@@ -19,6 +19,7 @@ Implemented Linear, Convolution, TransposeConvolution, MaxPool, RNN, LSTM, Embed
 - [ResNet](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/ResNet.ipynb)
 - [ViT](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/VIT_Base_Implementation.ipynb)
 - [YOLO](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/YOLO.ipynb)
+- [CRNN](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/CRNN.ipynb)
 
 ### NLP
 
