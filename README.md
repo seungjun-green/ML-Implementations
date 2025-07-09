@@ -21,6 +21,7 @@ Implemented Linear, Convolution, TransposeConvolution, MaxPool, RNN, LSTM, Embed
 - [ViT](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/VIT_Base_Implementation.ipynb)
 - [YOLO](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/YOLO.ipynb)
 - [CRNN](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/CRNN.ipynb)
+- [Diffusion(DDPM)](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/Diffusion_Implementation.ipynb)
 
 ### NLP
 
