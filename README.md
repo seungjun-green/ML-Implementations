@@ -22,7 +22,8 @@ Implemented Linear, Convolution, TransposeConvolution, MaxPool, RNN, LSTM, Embed
 - [YOLO](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/YOLO.ipynb)
 - [CRNN](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/CRNN.ipynb)
 - [Diffusion(DDPM)](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/Diffusion_Implementation.ipynb)
-
+- [CRNN](https://github.com/seungjun-green/CRNN)
+- [DBNet](https://github.com/seungjun-green/DBNet)
 ### NLP
 
 - [ModernBERT](https://github.com/seungjun-green/ML-Implementations/blob/main/PyTorch/ModernBERT.ipynb)
